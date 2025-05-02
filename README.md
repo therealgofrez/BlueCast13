@@ -1,12 +1,12 @@
 # ＼(＾▽＾*) Hello!
 <div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
 
-# 👋 I'm BlueCast
+# 👋 I'm Gofrez
 
 ### I'm a Python and Javascript developer! I like programming weird stuff 👀
 
-- I'm currently working on Music Bot
-- I have been programming for 4 years!
+- I'm currently working on cobw
+- I have been programming for 5 years!
 - I still don't know what I am doing.
 
 ### Technologies that I know!

@@ -1,5 +1,5 @@
 # ＼(＾▽＾*) Hello!
-<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
+![Profile Views](https://komarev.com/ghpvc/?username=therealgofrez&color=blueviolet) [![GitHub followers](https://img.shields.io/github/followers/therealgofrez?label=Follow&style=social)](https://github.com/therealgofrez) [![Telegram](https://img.shields.io/badge/Telegram-@therealgofrez-2CA5E0?logo=telegram&logoColor=white)](https://t.me/therealgofrez)
 
 # 👋 I'm Gofrez
 

@@ -1,5 +1,6 @@
 # ＼(＾▽＾*) Hello!
 ![Profile Views](https://komarev.com/ghpvc/?username=therealgofrez&color=blueviolet) [![GitHub followers](https://img.shields.io/github/followers/therealgofrez?label=Follow&style=social)](https://github.com/therealgofrez) [![Telegram](https://img.shields.io/badge/Telegram-@therealgofrez-2CA5E0?logo=telegram&logoColor=white)](https://t.me/therealgofrez)
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 # 👋 I'm Gofrez
 
